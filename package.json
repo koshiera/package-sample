@@ -4,9 +4,11 @@
 	"main": "dist/js/index.js",
 	"module": "dist/esm/index.js",
 	"types": "dist/js/index.d.ts",
+	"repository": "https://github.com/koshiera/package-sample",
 	"publishConfig": {
 		"access": "public",
-		"tag": "prerelease"
+		"tag": "prerelease",
+		"registry": "https://npm.pkg.github.com/"
 	},
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.6",
