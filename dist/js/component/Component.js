@@ -12,7 +12,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var Component = function Component() {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "Component"
-  }, "Component");
+  }, "Component Updated");
 };
 
 exports.Component = Component;

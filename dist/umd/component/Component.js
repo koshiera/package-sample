@@ -29,7 +29,7 @@
   const Component = exports.Component = () => {
     return /*#__PURE__*/_react2.default.createElement("div", {
       className: "Component"
-    }, "Component");
+    }, "Component Updated");
   };
 });
 //# sourceMappingURL=Component.js.map
