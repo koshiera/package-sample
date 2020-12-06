@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/component/Test.tsx"],"names":["Test"],"mappings":"AAAA,OAAO,MAAMA,IAAI,GAAG,MAAM;AAEzB,sBACC;AAAK,IAAA,SAAS,EAAC;AAAf,YADD;AAIA,CANM","sourcesContent":["export const Test = () => {\n\n\treturn (\n\t\t<div className=\"App\">Test</div>\n\t);\n\n}\n"],"file":"Test.js"}

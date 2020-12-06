@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/App.tsx"],"names":["App"],"mappings":";;;;;;;;;;;;;;;;;;;AAAO,QAAMA,GAAG,WAAHA,GAAG,GAAG,MAAM;AAExB,WAAA,aACC,KAAA,CAAA,aAAA,CAAA,KAAA,EAAA;AAAK,MAAA,SAAS,EAAC;AAAf,KAAA,CADD;AAFM,GAAA","sourcesContent":["export const App = () => {\n\n\treturn (\n\t\t<div className=\"App\"></div>\n\t);\n\n}\n"],"file":"App.js"}
