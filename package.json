@@ -1,13 +1,11 @@
 {
-	"name": "package-sample",
+	"name": "@koshiera/package-sample",
 	"version": "0.1.0",
 	"main": "dist/js/index.js",
 	"module": "dist/esm/index.js",
 	"types": "dist/js/index.d.ts",
 	"repository": "https://github.com/koshiera/package-sample",
 	"publishConfig": {
-		"access": "public",
-		"tag": "prerelease",
 		"registry": "https://npm.pkg.github.com/"
 	},
 	"dependencies": {
